@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2697F29E1AC37E6D004C3118"
-               BuildableName = "ComponentKit.framework"
-               BlueprintName = "ComponentKit"
+               BlueprintIdentifier = "2697F3DA1AC38063004C3118"
+               BuildableName = "ComponentTextKit.framework"
+               BlueprintName = "ComponentTextKit"
                ReferencedContainer = "container:ComponentKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2697F29E1AC37E6D004C3118"
-            BuildableName = "ComponentKit.framework"
-            BlueprintName = "ComponentKit"
+            BlueprintIdentifier = "2697F3DA1AC38063004C3118"
+            BuildableName = "ComponentTextKit.framework"
+            BlueprintName = "ComponentTextKit"
             ReferencedContainer = "container:ComponentKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -60,9 +60,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2697F29E1AC37E6D004C3118"
-            BuildableName = "ComponentKit.framework"
-            BlueprintName = "ComponentKit"
+            BlueprintIdentifier = "2697F3DA1AC38063004C3118"
+            BuildableName = "ComponentTextKit.framework"
+            BlueprintName = "ComponentTextKit"
             ReferencedContainer = "container:ComponentKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
