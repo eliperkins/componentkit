@@ -121,7 +121,7 @@
 		2697F3B81AC37EB5004C3118 /* CKStackUnpositionedLayout.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2697F3351AC37EB5004C3118 /* CKStackUnpositionedLayout.mm */; };
 		2697F3B91AC37EB5004C3118 /* CKStaticLayoutComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 2697F3361AC37EB5004C3118 /* CKStaticLayoutComponent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2697F3BA1AC37EB5004C3118 /* CKStaticLayoutComponent.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2697F3371AC37EB5004C3118 /* CKStaticLayoutComponent.mm */; };
-		2697F3BB1AC37EB5004C3118 /* CKArrayControllerChangeset.h in Headers */ = {isa = PBXBuildFile; fileRef = 2697F3391AC37EB5004C3118 /* CKArrayControllerChangeset.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2697F3BB1AC37EB5004C3118 /* CKArrayControllerChangeset.h in Headers */ = {isa = PBXBuildFile; fileRef = 2697F3391AC37EB5004C3118 /* CKArrayControllerChangeset.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		2697F3BC1AC37EB5004C3118 /* CKArrayControllerChangeset.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2697F33A1AC37EB5004C3118 /* CKArrayControllerChangeset.mm */; };
 		2697F3BD1AC37EB5004C3118 /* CKArrayControllerChangeType.h in Headers */ = {isa = PBXBuildFile; fileRef = 2697F33B1AC37EB5004C3118 /* CKArrayControllerChangeType.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2697F3BE1AC37EB5004C3118 /* CKComponentAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 2697F33C1AC37EB5004C3118 /* CKComponentAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1867,6 +1867,7 @@
 				2697F2BA1AC37E6D004C3118 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B342DC461AC23E8200ACAC53 /* Build configuration list for PBXNativeTarget "ComponentKitTests" */ = {
 			isa = XCConfigurationList;

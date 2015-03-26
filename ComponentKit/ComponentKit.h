@@ -84,7 +84,6 @@ FOUNDATION_EXPORT const unsigned char ComponentKitVersionString[];
 #import <ComponentKit/CKInternalHelpers.h>
 #import <ComponentKit/CKMutex.h>
 #import <ComponentKit/CKOptimisticViewMutations.h>
-#import <ComponentKit/CKSectionedArrayController.h>
 #import <ComponentKit/CKWeakObjectContainer.h>
 #import <ComponentKit/CKLabelComponent.h>
 #import <ComponentKit/CKTextComponent.h>
